@@ -1,0 +1,11 @@
+Order in which processes gets executed
+3 2 0 4 1
+Processes  Burst time  Waiting time  Turn around time
+ 3              7        0               7
+ 2              4        7               11
+ 0              3        11              14
+ 4              3        14              17
+ 1              6        17              23
+
+Average waiting time = 9.8
+Average turn around time = 14.4

@@ -1,0 +1,8 @@
+Name  Arrival Time     Burst Time      Waiting Time   TurnAround Time    Normalized TT
+A       0               3               0               3               1
+B       1               6               2               8               1.33333
+C       2               4               7               11              2.75
+E       4               3               9               12              4
+D       3               7               13              20              2.85714
+Average waiting time: 6.2
+Average Turn Around time:10.8

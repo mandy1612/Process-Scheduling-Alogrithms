@@ -1,0 +1,9 @@
+P Id     Burst Time      Arrival Time   Waiting Time    Turn Around Time        Completion Time
+ 1         3     0              0               3               3
+ 2         6     1              6               12              13
+ 3         4     2              1               5               7
+ 4         7     3              10              17              20
+ 5         2     4              10013                   10015           10019
+
+Average waiting time = 10030.000000
+Average Turnaround time = 10052.000000
